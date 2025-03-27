@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "spring-boot-react-js/react-js-frontend",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - spring-boot-react-js/react-js-frontend",
+			"detail": "react-scripts build"
+		}
+	]
+}
